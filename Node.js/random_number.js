@@ -1,5 +1,5 @@
-// goormIDE로 실행할 때는 꼭 저장하자 
-// commit 후 push 저장됐는지 확인.
+// goormIDE로 실행할 때는 꼭 저장하자
+// commit 후 push 저장됐는지 확인
 // 경로 잘 설정해서 실행시켜주고 
 // cd Node.js 후 node random_number.js
 
